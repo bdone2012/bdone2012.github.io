@@ -1,0 +1,67 @@
+#headshot {
+/*	border: solid black 5px;*/
+	float: left;
+	margin: 5px 5px -4px 6px;
+}
+
+html, body {
+	font-family: Lato, sans-serif;
+	margin: 0px;
+	padding: 0px;
+}
+
+p {
+	font-weight: lighter;
+	margin: 5px 5px 5px 10px;
+}
+
+#main {
+	width: 500px;
+	float: right;
+	/*background: red;*/
+	margin: 290px 390px 15px 15px;
+}
+
+h1 {
+
+}
+
+#main h1 {
+	color: #EE4000;
+}
+
+nav {
+	clear: both;
+	background: black;
+	padding: 15px;
+	position: absolute;
+	bottom: 49px;
+	left: 0px;
+	right: 0px;
+	margin: 0;
+
+}
+
+.bar {
+
+}
+
+nav a {
+	color: white;
+	text-decoration: none;
+}
+
+nav li {
+	display: inline;
+	padding: 3px;
+}
+
+nav ul {
+	margin: 15px 370px;
+}
+
+#lowscreen img {
+	max-height: 25%;
+	max-width: 25%;
+	margin: 15px;
+}
