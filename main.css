@@ -22,8 +22,8 @@ p {
 	margin: 290px 390px 15px 15px;
 }
 
-h1 {
-
+.h1_margin {
+	margin: 15px;
 }
 
 #main h1 {
@@ -64,4 +64,9 @@ nav ul {
 	max-height: 25%;
 	max-width: 25%;
 	margin: 15px;
+}
+
+#resume_pic img {
+	max-height: 500px;
+	margin-left: 30px;
 }
